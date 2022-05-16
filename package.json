@@ -1,0 +1,16 @@
+{
+  "name": "@maldan/gam-app-audio_player",
+  "version": "0.0.1",
+  "description": "Audio Player",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Maldan",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maldan/gam-app-audio_player.git"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
