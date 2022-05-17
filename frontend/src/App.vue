@@ -8,7 +8,9 @@ import { defineComponent } from 'vue';
 
 export default defineComponent({
   components: {},
-  async mounted() {},
+  async mounted() {
+    // b
+  },
   methods: {},
   data: () => {
     return {
