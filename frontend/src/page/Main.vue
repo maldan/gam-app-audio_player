@@ -26,6 +26,7 @@ export default defineComponent({
   methods: {
     play(url: string): void {
       this.track = url;
+      // a
       this.$nextTick(() => {
         (this.$refs['player'] as HTMLVideoElement).playbackRate = 1;
         (this.$refs['player'] as HTMLVideoElement).volume = 0.25;
