@@ -1,6 +1,6 @@
 {
   "name": "@maldan/gam-app-audio_player",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Audio Player",
   "main": "index.js",
   "scripts": {},
